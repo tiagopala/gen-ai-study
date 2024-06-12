@@ -55,7 +55,7 @@ git clone https://github.com/tiagopala/gen-ai-study
 ## How to Use
 - **Notes**: Refer to the `docs` directory for detailed notes on each topic.
 - **Notebooks**: Explore the `notebooks` directory to see Jupyter notebooks with code examples and experiments.
-- **Code**: Check `the` src directory for scripts related to data preprocessing, model training, and evaluation.
+- **Code**: Check the `src` directory for scripts related to data preprocessing, model training, and evaluation.
 - **Data**: The `data` directory contains raw and processed data used in the experiments.
 
 ## Contributions
