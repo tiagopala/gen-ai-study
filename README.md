@@ -1,6 +1,6 @@
 # Personal Study Repository on Generative AI Concepts
 
-<img src="images/gen_ai_readme_image.webp" alt="Gen AI Image" height="300">
+<img src="/images/gen-ai-readme-image.webp" alt="Gen AI Image" height="300">
 
 Hi there,👋!
 
