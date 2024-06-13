@@ -30,6 +30,14 @@ Fine-tuning corrects errors and ensures domain-specific performance.
 
 The synergy of RAG and fine-tuning enhances model reliability and effectiveness.
 
+### Instruction Training
+
+Due the nature of LLMs, and its prediction limitations we could also use the [instruction training](./instruction-tuning.md) technique to improve LLMs.
+
+### Reinforcement Learning from Human Feedback (RLHF)
+
+Another technique for improving LLMs, it is using a [RLHF](./rlhf.md) approach.
+
 ### *Pretraining* LLMs
 
 That’s another technique used for enhancing LLMs, but this one is not highly recommended because the amount of data needed to train these models, the expensive cost of training an LLM from scratch and the requirement of a large engineering team for several months to do the job.
