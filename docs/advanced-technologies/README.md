@@ -6,19 +6,19 @@ Let's delve deep into the fascinating world of advanced techniques for Large Lan
 
 We’ll start exploring Fine-Tuning, Retrieval Augmented Generation (RAG), and the role of *Pretraining* in enhancing LLM performance.
 
-### Retrieval Augmented Generation (RAG)
+## Retrieval Augmented Generation (RAG)
 
 In a few words, RAG connects LLMs to external knowledge sources through retrieval mechanisms.
 
 For a deep dive, check out the [RAG](./rag.md) section.
 
-### Fine-tuning
+## Fine-tuning
 
 The mainly purpose is to **adapt** a pre-trained language model (such as GPT-3 or Llama 2) **to perform specific tasks**.
 
 For a deep dive, check out the [Fine-tuning](./fine-tuning.md) section.
 
-### RAG vs Fine-tuning
+## RAG vs Fine-tuning
 
 RAG and fine-tuning are not opposing techniques; they can be used together.
 
@@ -30,15 +30,15 @@ Fine-tuning corrects errors and ensures domain-specific performance.
 
 The synergy of RAG and fine-tuning enhances model reliability and effectiveness.
 
-### Instruction Training
+## Instruction Training
 
 Due the nature of LLMs, and its prediction limitations we could also use the [instruction training](./instruction-tuning.md) technique to improve LLMs.
 
-### Reinforcement Learning from Human Feedback (RLHF)
+## Reinforcement Learning from Human Feedback (RLHF)
 
 Another technique for improving LLMs, it is using a [RLHF](./rlhf.md) approach.
 
-### *Pretraining* LLMs
+## *Pretraining* LLMs
 
 That’s another technique used for enhancing LLMs, but this one is not highly recommended because the amount of data needed to train these models, the expensive cost of training an LLM from scratch and the requirement of a large engineering team for several months to do the job.
 
@@ -49,3 +49,7 @@ An example of the usage of *Pretraining* LLMs could be seen on the creation of B
 The best alternative for common scenarios should be the usage of general purpose LLMs in conjunction with fine-tuning and RAG approaches.
 
 In summary, combining RAG, fine-tuning, and *pretraining* unlocks the full potential of LLMs, enabling them to perform well across various tasks while leveraging external knowledge and maintaining adaptability
+
+## Tools and Agents
+
+LLMs could also be combined with tools to perform actions and make decisions. [Check it out](./tools-and-agents.md) for more detailed information.
