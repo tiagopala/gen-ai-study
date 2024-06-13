@@ -41,5 +41,5 @@ LLMs and other generative AI tools like ChatGPT can significantly boost producti
 
 ## Another Concepts
 
-- [LLM Strengths and Constrains](./1.llm_strengths_and_constraints.md)
-- [General Purpose Technology Relation](./2.general_purpose_technology_relation.md)
+- [LLM Strengths and Constrains](./llm-strengths-and-constraints.md)
+- [General Purpose Technology Relation](./general-purpose-technology-relation.md)
