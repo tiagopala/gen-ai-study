@@ -43,3 +43,7 @@ In summary, LLMs could perform a wide range of reading tasks that involve proces
 ### Prompting
 
 As we could see in the examples above, they mentioned many times that [writing good prompts](./tips-for-prompting.md) takes a crucial role in getting effective outputs or responses.
+
+### Choosing LLM
+
+Creating good prompts are very important, but [choosing which LLM](./choosing-right-model.md) is more suitable for you task it is also very important too.
