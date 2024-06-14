@@ -24,3 +24,5 @@ Below it will be provided a systematic framework to **analyze business processes
 It will also consider whether building or buying AI-based applications can add value to a business.
 
 In summary, you should understand the potential for AI to **enhance business processes** and the need for strategic analysis to identify the best opportunities for its use.
+
+For a deep dive, check out the [identifying ai opportunities](./identifying-ai-opportunities.md) section.
