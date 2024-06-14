@@ -28,6 +28,8 @@ Assess each task’s potential for AI augmentation or automation.
 | Keeping records of interactions              | High      |
 | Assessing accuracy of customers complaints   | Low       |
 
+Check it out for another [jobs and its tasks examples](./jobs-tasks-examples.md).
+
 ## Augmentation vs. Automation
 
 - **Augmentation**: AI assists humans with tasks. For example, AI recommends responses for customer service agents to approve or edit.
@@ -48,3 +50,9 @@ Assess each task’s potential for AI augmentation or automation.
 1. Use the framework to break down job roles into individual tasks.
 2. Analyze these tasks for their potential for AI augmentation or automation.
 3. Focus efforts on tasks with the highest potential for adding value.
+
+## Beyond Cost Savings
+
+Initial thoughts about AI often focus on cost savings through automation.
+Historical innovations (e.g., steam engine, electricity, computers) show that while cost savings are a starting point, the **real benefits come from growth opportunities**.
+**AI can lead to new ways of creating value**, potentially transforming workflows and business models.
