@@ -56,3 +56,29 @@ Check it out for another [jobs and its tasks examples](./jobs-tasks-examples.md)
 Initial thoughts about AI often focus on cost savings through automation.
 Historical innovations (e.g., steam engine, electricity, computers) show that while cost savings are a starting point, the **real benefits come from growth opportunities**.
 **AI can lead to new ways of creating value**, potentially transforming workflows and business models.
+
+### Revenue Growth / New workflows
+
+Besides of the augmentation and automation of tasks, AI can lead to revenue growth by changing workflows in various industries.
+
+Some hypothetical examples to illustrate it:
+
+**Surgeon:**
+- **Current Process**: Surgeons spend significant time on background research for medical procedures specific to a patient before performing surgery.
+- **With Gen AI**: AI tools can reduce the research time, making the overall process more efficient while still requiring the surgeon to perform the surgery.
+
+**Lawyer**
+- **Current Process**: Lawyers gather information from clients, review complex legal documents, and provide feedback.
+- **With Gen AI**: AI can speed up the document review process. For simpler documents, AI can make the review and feedback process more efficient. Lawyers might still need to verify AI outputs, ensuring accuracy before final client feedback.
+
+**Marketer**
+- **Current Process**: Writing website copy is time-consuming, followed by pushing it to the website.
+- **With Gen AI**: AI can accelerate copywriting. The efficiency gained can be used to create multiple versions for A/B testing, leading to more effective marketing campaigns through improved analysis and iteration.
+
+#### Value Creation
+
+AI could also bring value creation, if used alongside your **customer tasks**.
+
+By Identifying tasks performed by your customers and finding opportunities to use Gen AI to help them, potentially **leading to new product** or **service offerings**.
+
+The key point here is understand the importance of **brainstorming and exploring different ideas** for **integrating AI into business processes**.
