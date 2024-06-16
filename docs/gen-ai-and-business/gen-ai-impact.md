@@ -14,6 +14,8 @@ Higher wage occupations are more impacted in this wave of AI advancement, unlike
 
 Below it is a graph analysis made by McKinsey.
 
+<img src="/images/gen-ai-impact-on-jobs.png" alt="Gen AI Image" height="400">
+
 The vertical axis shows the total impact in billions of dollars, while the horizontal axis measures the impact as a percentage of the functional spend.
 
 The yellow dots are the areas/sectors that will be heavily changed by the improvements and usage of generative AI.
