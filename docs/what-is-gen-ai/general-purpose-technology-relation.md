@@ -8,7 +8,7 @@ The role of Generative AI is supposed to be **general-purpose technology** like 
 
 - **Writing**: It can assist in creative tasks such as brainstorming names for products, acting as a companion in the creative process.
 - **Reading**: Generative AI can analyze lengthy texts (e.g., customer emails) and provide concise outputs, such as identifying complaints, which aids in efficient email routing within companies.
-- **Chatbots**: It enables the creation of both general-purpose and specialized chatbots for various tasks, such as taking online orders.
+- **Chat bots**: It enables the creation of both general-purpose and specialized chat bots for various tasks, such as taking online orders.
 
 ## Types of LLM-based Applications
 
